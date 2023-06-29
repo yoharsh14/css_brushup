@@ -1,0 +1,24 @@
+.card{
+    align-item:center;
+    width:350px;
+    height:300px;
+    background-color:rgb(7, 201, 125);
+    border-radius:10px;
+    padding: 30px;
+    font-family: "Source Sans Pro", "Arial", sans-serif;
+    margin: auto;
+}
+.card-btn{
+    border:none;
+    font-weight:700;
+    border-radius:15px;
+    padding:10px 15px;
+    font-size:0.8rem;
+}
+.card-p{
+    font-size:0.65rem;
+}
+.card-h{
+    font-size:2rem;
+    
+}
