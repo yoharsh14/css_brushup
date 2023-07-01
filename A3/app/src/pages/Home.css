@@ -1,0 +1,12 @@
+.map{
+    position: fixed;
+    left:46%;
+    bottom:60px;
+    width: 120px;
+    height: 50px;
+    background-color:rgba(0, 0, 0, 0.855) ;
+    color:white;
+    border-radius: 26px;
+    border:none;
+    z-index: 2;
+}

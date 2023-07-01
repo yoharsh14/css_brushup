@@ -1,0 +1,44 @@
+.select-bar {
+  background-color: #ffffff;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  position: sticky;
+  top: 100px;
+  /* margin-left: 8px;*/
+  margin-right: 8px;
+  border-radius: 14px;
+  z-index: 2;
+  padding-left: 10px;
+  padding-right:10px;
+}
+.rooms {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  gap: 2px;
+  color: rgb(116, 113, 113);
+}
+.arrow {
+  display: flex;
+  width: 30px;
+  height: 100%;
+  justify-content: left;
+  align-items: center;
+  font-size: 30px;
+}
+.filter {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  height: 45px;
+  align-items: center;
+  border-radius: 14px;
+  border: 1px solid lightgray;
+  width: 85px;
+}
